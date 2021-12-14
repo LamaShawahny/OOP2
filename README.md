@@ -1,6 +1,6 @@
 
 # Directed Weighted Graph - Assignment 2
-==============================================
+====================================================================
 
 ![image](https://user-images.githubusercontent.com/74476764/146073024-e2fe4f91-cb05-403d-9115-0cbd6098e3f2.png)
 
