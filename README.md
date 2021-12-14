@@ -2,7 +2,7 @@
 # Directed Weighted Graph - Assignment 2
 ====================================================================
 
-![image](https://user-images.githubusercontent.com/74476764/146073024-e2fe4f91-cb05-403d-9115-0cbd6098e3f2.png)
+![image](https://user-images.githubusercontent.com/74476764/146073955-b5ae408e-b526-420c-8a61-503288c06571.png)
 
 
 Task:
