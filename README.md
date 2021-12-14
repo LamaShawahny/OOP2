@@ -1,6 +1,9 @@
 
 # Directed Weighted Graph - Assignment 2
-=======================
+==============================================
+
+![image](https://user-images.githubusercontent.com/74476764/146073024-e2fe4f91-cb05-403d-9115-0cbd6098e3f2.png)
+
 
 Task:
 ------
@@ -29,9 +32,11 @@ nodeIter , edgeIter- Iterators for nodes and edges in class.
 edgeIter(node_id)-Iterator for edges getting out of given node .
 removeNode , removeEdge  in complexity O(1).
 getters of nodesize ,edgeSize ,getMc.
+
 #### DWG_Algo :
 This class represents the algorithms of Graph Theory (directed weighted graph).
 Some of the algorithms implemented using dijkstra algorithm.
+```
 . Dikstra Algorithm loop:
    * As long as there are any unvisited vertices:
    * Mark the X vertex as visited. (current vertex. In the first iteration this is the vertex of the source S)
@@ -42,8 +47,9 @@ Some of the algorithms implemented using dijkstra algorithm.
      vertices in the graph we have not yet visited.
  The algorithm ends when the new vertex X is the destination or (to find all the fastest paths) when we have visited all the vertices.
 
-
 Complexity of this algorithm is : O(v+e) where v=vertices, e=edges of the graph.
+```
+
 The Main  functions  performed:
 init : Initializes the class .
 copy: Deep copy to graph - In this method the implementation made using copy constructor on directed_weighted_graph Class.
